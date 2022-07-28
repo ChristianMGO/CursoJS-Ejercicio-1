@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 de el curso de JavaScript en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianMGO/CursoJS-Ejercicio-1.git"
+  },
+  "keywords": [
+    "Openbootcamp",
+    "Ejercicio1"
+  ],
+  "author": "Christian Tejada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianMGO/CursoJS-Ejercicio-1/issues"
+  },
+  "homepage": "https://github.com/ChristianMGO/CursoJS-Ejercicio-1#readme"
+}
